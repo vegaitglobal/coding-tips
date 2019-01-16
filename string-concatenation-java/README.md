@@ -15,6 +15,9 @@ In order to run this project first make you sure that you have java installed by
 If you get info about currently installed java, then you're good to go, 
 if not, install java jdk and repeat the steps.
 
+You can read more about it on our [blog](https://www.vegaitsourcing.rs/media-center/blog/2019/1/string-concatenation-in-java/).
+ 
+
 ### How to run benchmarking
 It's a maven based project, so to run it just execute:
 ```$xslt
